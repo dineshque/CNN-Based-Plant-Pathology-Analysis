@@ -51,13 +51,6 @@ plotly>=5.15.0
 Pillow>=9.5.0
 ```
 
-## 🚀 Deployment
-
-### Streamlit Cloud
-1. Push your code to GitHub
-2. Connect your repository to [Streamlit Cloud](https://streamlit.io/cloud)
-3. Deploy with one click!
-   
 ## 📸 Screenshots
 
 ### Main Interface
